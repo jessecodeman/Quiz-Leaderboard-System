@@ -22,8 +22,8 @@ public class QuizApplication {
 
     private static final String BASE_URL = "https://devapigw.vidalhealthtpa.com/srm-quiz-task";
     
-    // IMPORTANT: Replace with your actual registration number provided for the assignment.
-    private static final String REG_NO = "2024CS101"; 
+    // Registration number provided for the assignment.
+    private static final String REG_NO = "RA2311028020022"; 
     
     private static final int TOTAL_POLLS = 10;
     private static final int POLL_DELAY_MS = 5000;
